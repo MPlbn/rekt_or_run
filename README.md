@@ -1,2 +1,4 @@
 # rekt_or_run
-Na PZ w kolaboracji z ASP
+Założenia części technicznej:
+
+Założenia części artystycznej:
