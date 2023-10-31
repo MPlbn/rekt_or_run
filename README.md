@@ -19,6 +19,6 @@
 
 
 <h2>Aktualny podział zadań:</h2>:<br>
-- Podstawy AI (Mikołaj Plebanek)
-- Podstawy movementu (Grzegorz Głąba)
-- Pierwsza mapa (Adam Orfin)
+- Podstawy AI (Mikołaj Plebanek)<br>
+- Podstawy movementu (Grzegorz Głąba)<br>
+- Pierwsza mapa (Adam Orfin)<br>
