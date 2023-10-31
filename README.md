@@ -16,3 +16,9 @@
 - więcej mapek i jakaś sensowna historia<br>
 - zapisywanie stanu gierki<br>
 - ładne menu, które będzie scenką 3d<br>
+
+
+<h2>Aktualny podział zadań:</h2>:<br>
+- Podstawy AI (Mikołaj Plebanek)
+- Podstawy movementu (Grzegorz Głąba)
+- Pierwsza mapa (Adam Orfin)
