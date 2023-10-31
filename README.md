@@ -10,7 +10,7 @@
 - Zagadki pokroju wcisnąć ukryty przycisk/coś odpalić w odpowiedniej kolejności/coś znaleźć po przeczytaniu wskazówek z notatek.<br>
 - basic movement, sprint, bez skoku, może kucanko<br>
 <br><br>
-<h2>bonus</h2> (jak nam starczy czasu to można sobie powybierać):<br>
+<h2>bonus:</h2> (jak nam starczy czasu to można sobie powybierać):<br>
 - ekran inventory i wybieranie konkretnych przedmiotów.<br>
 - opisy przedmiotów w inventory<br>
 - więcej mapek i jakaś sensowna historia<br>
@@ -18,7 +18,7 @@
 - ładne menu, które będzie scenką 3d<br>
 
 
-<h2>Aktualny podział zadań:</h2>:<br>
+<h2>Aktualny podział zadań:</h2><br>
 - Podstawy AI (Mikołaj Plebanek)<br>
 - Podstawy movementu (Grzegorz Głąba)<br>
 - Pierwsza mapa (Adam Orfin)<br>
