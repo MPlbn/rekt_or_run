@@ -1506,3 +1506,145 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.23-20.45.38:915][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 202 ms)
 [2023.11.23-20.45.38:916][444]AssetCheck: New page: Asset Save: BP_Rifle_C_1
 [2023.11.23-20.45.38:916][444]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1
+[2023.11.23-20.52.27:313][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.23-20.52.27:315][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.010
+[2023.11.23-20.52.27:316][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Weapon_Component] ([2] browsable assets)...
+[2023.11.23-20.52.27:316][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Weapon_Component]
+[2023.11.23-20.52.27:344][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Weapon_Component_Auto1
+[2023.11.23-20.52.27:344][912]LogSavePackage: Moving '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/BP_Weapon_Component_Auto1E136CE7F4F0B18C5492B549C9F3A1D62.tmp' to '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Weapon_Component_Auto1.uasset'
+[2023.11.23-20.52.27:345][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile] ([2] browsable assets)...
+[2023.11.23-20.52.27:345][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile]
+[2023.11.23-20.52.27:355][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto1
+[2023.11.23-20.52.27:355][912]LogSavePackage: Moving '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/BP_FirstPersonProjectile_Auto18E352ED44348760C703854A0E0A56956.tmp' to '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonProjectile_Auto1.uasset'
+[2023.11.23-20.52.27:357][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle] ([2] browsable assets)...
+[2023.11.23-20.52.27:357][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle]
+[2023.11.23-20.52.27:368][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto1
+[2023.11.23-20.52.27:368][912]LogSavePackage: Moving '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/BP_Pickup_Rifle_Auto1BC767A52469BB60BE22694BBED64622E.tmp' to '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto1.uasset'
+[2023.11.23-20.52.27:368][912]LogFileHelpers: Auto-saving content packages took 0.053
+[2023.11.23-20.58.14:810][954]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek HD Audio 2nd output (Realtek(R) Audio), InstanceID=1
+[2023.11.23-20.58.14:893][954]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3432
+[2023.11.23-20.58.15:227][955]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=192000, DeviceID={0.0.0.00000000}.{0dae7162-fc8e-49e1-b7b1-8f92673a18e5}, Name=Realtek HD Audio 2nd output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=51.27
+[2023.11.23-20.58.15:228][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-20.58.15:229][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.23-21.05.15:558][465]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.23-21.05.15:564][465]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.23-21.05.15:564][465]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.11.23-21.05.15:570][465]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5 ms
+[2023.11.23-21.05.15:574][465]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.23-21.05.15:579][465]LogPlayLevel: [PlayLevel] Compiling BP_Weapon_Component before play...
+[2023.11.23-21.05.15:598][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.11.23-21.05.15:599][465]LogPlayLevel: PlayLevel: Blueprint regeneration took 23 ms (1 blueprints)
+[2023.11.23-21.05.15:600][465]PIE: New page: PIE session: FirstPersonMap (23 lis 2023, 23:05:15)
+[2023.11.23-21.05.15:603][465]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2023.11.23-21.05.15:606][465]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.11.23-21.05.15:631][466]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.23-21.05.15:640][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008704s)
+[2023.11.23-21.05.15:641][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008773s)
+[2023.11.23-21.05.15:646][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.23-21.05.15:648][466]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-21.05.15:648][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-21.05.15:649][466]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.11.23-21.05.15:650][466]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.23-21.05.15:650][466]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.23-21.05.15:650][466]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.23-21.05.15:650][466]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.23-21.05.15:652][466]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.11.23-21.05.15:652][466]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 101 ms)
+[2023.11.23-21.05.15:652][466]LogPlayLevel: PIE: World Init took: (0.005055s)
+[2023.11.23-21.05.15:653][466]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.23-21.05.15:653][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.23-21.05.15:653][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.23-21.05.15:653][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.23-21.05.15:653][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.23-21.05.15:653][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.23-21.05.15:653][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.23-21.05.15:653][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.23-21.05.15:653][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.23-21.05.15:654][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.23-21.05.15:654][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.23-21.05.15:654][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.23-21.05.15:656][466]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.23-21.05.15:680][466]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.11.23-21.05.15:681][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.23-21.05.15:681][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.23-21.05.15:681][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.23-21.05.15:682][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.23-21.05.15:682][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.23-21.05.15:684][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.23-21.05.15:684][466]LogInit: FAudioDevice initialized with ID 2.
+[2023.11.23-21.05.15:684][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.23-21.05.15:684][466]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.11.23-21.05.15:684][466]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.23-21.05.15:691][466]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.23-21.05.15:695][466]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.11.23-22.05.15
+[2023.11.23-21.05.15:696][466]LogWorld: Bringing up level for play took: 0.004390
+[2023.11.23-21.05.15:744][466]PIE: Server logged in
+[2023.11.23-21.05.15:746][466]PIE: Play in editor total start time 0,183 seconds.
+[2023.11.23-21.05.25:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-21.05.25:280][  0]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.11.23-21.05.25:280][  0]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.23-21.05.25:281][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-21.05.25:282][  0]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.23-21.05.25:287][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.23-21.05.25:290][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.23-21.05.25:296][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.23-21.05.25:296][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.23-21.05.25:296][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.23-21.05.25:298][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.23-21.05.25:303][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.23-21.05.25:306][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.23-21.05.25:499][  1]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.11.23-21.05.54:738][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.23-21.05.56:110][696]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.23-21.05.56:136][696]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/FirstPersonArms/Animations/FP_Rifle_Jump.FP_Rifle_Jump
+	Asset Type: AnimSequence
+	Asset Name: /Game/FirstPersonArms/Animations/FP_Rifle_Land.FP_Rifle_Land
+	Asset Type: AnimSequence
+	Asset Name: /Game/FirstPersonArms/Animations/FP_Rifle_Run.FP_Rifle_Run
+	Asset Type: AnimSequence
+	Asset Name: /Game/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage.FP_Rifle_Shoot_Montage
+	Asset Type: AnimMontage
+[2023.11.23-21.05.56:370][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.23-21.05.56:376][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.23-21.05.56:382][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.11.23-21.06.19:506][ 51]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.23-21.06.19:509][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.23-21.06.19:510][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.23-21.06.19:524][ 51]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.11.23-21.06.20:631][ 51]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.23-21.06.22:450][136]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2023.11.23-21.07.34:009][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.11.23-21.07.34:010][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2023.11.23-21.07.34:010][997]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.23-21.07.34:133][997]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.23-21.07.34:133][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.23-21.07.34:146][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2023.11.23-21.07.34:146][997]LogSavePackage: Moving '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/BP_FirstPersonCharacter_Auto2BE7B788F4A99FA5C1562C7A3AEC101A5.tmp' to '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2023.11.23-21.07.34:148][997]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonArms/Animations/FirstPerson_AnimBP] ([2] browsable assets)...
+[2023.11.23-21.07.34:187][997]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP]
+[2023.11.23-21.07.34:188][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonArms/Animations/FirstPerson_AnimBP]
+[2023.11.23-21.07.34:251][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPersonArms/Animations/FirstPerson_AnimBP_Auto2
+[2023.11.23-21.07.34:251][997]LogSavePackage: Moving '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/FirstPerson_AnimBP_Auto2C5A044394E4FF7AC129700BD6B7EB8A3.tmp' to '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/Autosaves/Game/FirstPersonArms/Animations/FirstPerson_AnimBP_Auto2.uasset'
+[2023.11.23-21.07.34:253][997]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Weapon_Component] ([2] browsable assets)...
+[2023.11.23-21.07.34:253][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Weapon_Component]
+[2023.11.23-21.07.34:270][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Weapon_Component_Auto2
+[2023.11.23-21.07.34:270][997]LogSavePackage: Moving '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/BP_Weapon_Component_Auto27C0C2C14487D0426EDA7549418C657FF.tmp' to '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Weapon_Component_Auto2.uasset'
+[2023.11.23-21.07.34:271][997]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle] ([2] browsable assets)...
+[2023.11.23-21.07.34:271][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Pickup_Rifle]
+[2023.11.23-21.07.34:283][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto2
+[2023.11.23-21.07.34:283][997]LogSavePackage: Moving '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/BP_Pickup_Rifle_Auto2355050EE4366054954CBAD81BD60D0C9.tmp' to '../../../../../../Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Pickup_Rifle_Auto2.uasset'
+[2023.11.23-21.07.34:284][997]LogFileHelpers: Auto-saving content packages took 0.273
+[2023.11.23-21.08.58:543][251]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Głośniki (Realtek(R) Audio), InstanceID=1
+[2023.11.23-21.08.58:673][251]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3432
+[2023.11.23-21.08.59:009][252]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=192000, DeviceID={0.0.0.00000000}.{63b5d7bf-e2dd-42f6-a709-875c1007ec3d}, Name=Głośniki (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.57
+[2023.11.23-21.08.59:009][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-21.08.59:010][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.23-21.10.31:421][529]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3432
+[2023.11.23-21.10.31:756][530]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=192000, DeviceID={0.0.0.00000000}.{63b5d7bf-e2dd-42f6-a709-875c1007ec3d}, Name=Głośniki (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnSessionDisconnect() - FormatChanged, InstanceID=1, DurationMS=18.33
+[2023.11.23-21.10.31:756][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-21.10.31:758][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.23-21.10.33:423][535]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3432
+[2023.11.23-21.10.33:758][536]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=192000, DeviceID={0.0.0.00000000}.{63b5d7bf-e2dd-42f6-a709-875c1007ec3d}, Name=Głośniki (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnSessionDisconnect() - FormatChanged, InstanceID=1, DurationMS=9.27
+[2023.11.23-21.10.33:758][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.23-21.10.33:760][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
