@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Mesh/SK_FPGun.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/M_FPGun.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Textures/T_FPGun_N.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Textures/T_FPGun_M.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/BaseMaterial.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+			]
+		}
+	]
+}
