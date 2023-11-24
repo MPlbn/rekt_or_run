@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
 	]
