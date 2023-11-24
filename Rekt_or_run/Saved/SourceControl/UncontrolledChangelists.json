@@ -30,7 +30,12 @@
 				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage.uasset",
 				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPersonArms/Animations/FP_Rifle_Run.uasset",
 				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPersonArms/Animations/FP_Rifle_Land.uasset",
-				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPersonArms/Animations/FP_Rifle_Jump.uasset"
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPersonArms/Animations/FP_Rifle_Jump.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset"
 			]
 		}
 	]
