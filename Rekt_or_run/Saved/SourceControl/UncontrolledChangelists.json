@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/adasiu/Documents/GitHub/rekt_or_run/Rekt_or_run/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/adasiu/Documents/GitHub/rekt_or_run/Rekt_or_run/Content/Backrooms.umap",
 				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
 				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset",
