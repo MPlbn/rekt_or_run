@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/test.umap",
+				"A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/AI/Enemy/BP_Enemy.uasset",
+				"A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/AI/Enemy/Tasks/RoamAround.uasset",
+				"A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/AI/Enemy/BTTree_AI.uasset",
+				"A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/AI/Enemy/AI_Controller.uasset",
+				"A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/AI/Enemy/BB_AI.uasset",
 				"/Users/adasiu/Documents/GitHub/rekt_or_run/Rekt_or_run/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"/Users/adasiu/Documents/GitHub/rekt_or_run/Rekt_or_run/Content/Backrooms.umap",
 				"C:/Users/grzeg/OneDrive/Pulpit/dev/rekt_or_run/Rekt_or_run/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
