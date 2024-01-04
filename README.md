@@ -19,6 +19,11 @@
 
 
 <h2>Aktualny podział zadań:</h2><br>
-- Podstawy AI (Mikołaj Plebanek)<br>
-- Podstawy movementu (Grzegorz Głąba)<br>
-- Pierwsza mapa (Adam Orfin)<br>
+- Podstawy AI (Mikołaj Plebanek) GOTOWE<br>
+- Podstawy movementu (Grzegorz Głąba) GOTOWE<br>
+- Pierwsza mapa (Adam Orfin) GOTOWE<br>
+- Latarka i jej potencjalna interakcja z AI(Grzegorz Głąba/Mikołaj Plebanek) WIP<br>
+- Drzwi (Mikołaj Plebanek) GOTOWE<br>
+- Klucze i ich interakcja z drzwiami (Kto weźmie ten zrobi) TODO<br>
+- Oksryptowanie AI na gotowych poziomach (Mikołaj Plebanek) TODO<br>
+- Reszta map (Adam Orfin) WIP<br>
