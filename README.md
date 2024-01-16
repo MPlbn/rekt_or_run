@@ -24,6 +24,6 @@
 - Pierwsza mapa (Adam Orfin) GOTOWE<br>
 - Latarka i jej potencjalna interakcja z AI(Grzegorz Głąba/Mikołaj Plebanek) WIP<br>
 - Drzwi (Mikołaj Plebanek) GOTOWE<br>
-- Klucze i ich interakcja z drzwiami (Kto weźmie ten zrobi) TODO<br>
+- Klucze i ich interakcja z drzwiami (Mikołaj Plebanek) GOTOWE<br>
 - Oksryptowanie AI na gotowych poziomach (Mikołaj Plebanek) TODO<br>
 - Reszta map (Adam Orfin) WIP<br>
