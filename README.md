@@ -27,3 +27,5 @@
 - Klucze i ich interakcja z drzwiami (Mikołaj Plebanek) GOTOWE<br>
 - Oksryptowanie AI na gotowych poziomach (Mikołaj Plebanek) TODO<br>
 - Reszta map (Adam Orfin) WIP<br>
+- Notatki i interakcje z nimi (Grzegorz Głąba) WIP<br>
+- Menu (Grzegorz Głąba) WIP <br>
