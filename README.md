@@ -22,7 +22,8 @@
 - Podstawy AI (Mikołaj Plebanek) GOTOWE<br>
 - Podstawy movementu (Grzegorz Głąba) GOTOWE<br>
 - Pierwsza mapa (Adam Orfin) GOTOWE<br>
-- Latarka i jej potencjalna interakcja z AI(Grzegorz Głąba/Mikołaj Plebanek) WIP<br>
+- Latarka (Grzegorz Głąba) GOTOWE<br>
+- Interakcja latarka-AI(Mikołaj Plebanek) PÓKI CO SCRAPPED<br>
 - Drzwi (Mikołaj Plebanek) GOTOWE<br>
 - Klucze i ich interakcja z drzwiami (Mikołaj Plebanek) GOTOWE<br>
 - Oksryptowanie AI na gotowych poziomach (Mikołaj Plebanek) TODO<br>
