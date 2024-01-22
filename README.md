@@ -30,3 +30,6 @@
 - Reszta map (Adam Orfin) WIP<br>
 - Notatki i interakcje z nimi (Grzegorz Głąba) WIP<br>
 - Menu (Grzegorz Głąba) WIP <br>
+- GUI (Grzegorz Głąba) WIP <br>
+- Hitbox fix (Mikołaj Plebanek) WIP <br>
+- Integracja modeli i assetów od ASP (Kto weźmie) TODO <br>
