@@ -22,14 +22,10 @@
 - Podstawy AI (Mikołaj Plebanek) GOTOWE<br>
 - Podstawy movementu (Grzegorz Głąba) GOTOWE<br>
 - Pierwsza mapa (Adam Orfin) GOTOWE<br>
-- Latarka (Grzegorz Głąba) GOTOWE<br>
-- Interakcja latarka-AI(Mikołaj Plebanek) PÓKI CO SCRAPPED<br>
+- Latarka i jej potencjalna interakcja z AI(Grzegorz Głąba/Mikołaj Plebanek) WIP<br>
 - Drzwi (Mikołaj Plebanek) GOTOWE<br>
 - Klucze i ich interakcja z drzwiami (Mikołaj Plebanek) GOTOWE<br>
 - Oksryptowanie AI na gotowych poziomach (Mikołaj Plebanek) TODO<br>
 - Reszta map (Adam Orfin) WIP<br>
 - Notatki i interakcje z nimi (Grzegorz Głąba) WIP<br>
 - Menu (Grzegorz Głąba) WIP <br>
-- GUI (Grzegorz Głąba) WIP <br>
-- Hitbox fix (Mikołaj Plebanek) WIP <br>
-- Integracja modeli i assetów od ASP (Kto weźmie) TODO <br>
