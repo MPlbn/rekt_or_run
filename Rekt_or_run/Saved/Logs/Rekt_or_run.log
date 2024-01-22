@@ -2133,3 +2133,49 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.22-19.44.21:908][996]LogContentValidation: Display: Validating /Script/Engine.World /Game/test.test
 [2024.01.22-19.44.31:000][752]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.22-19.44.31:068][753]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-19.46.04:420][145]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-19.46.04:486][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-19.46.04:512][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-19.46.04:539][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-19.46.06:744][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/Door/Door_Blue_BP.Door_Blue_BP
+[2024.01.22-19.46.06:744][292]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-19.46.06:745][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-19.46.08:051][375]LogViewport: Scene viewport resized to 1036x691, mode Windowed.
+[2024.01.22-19.46.16:786][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-19.46.16:845][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Door/Door_Blue_BP" FILE="A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/Interactables/Door/Door_Blue_BP.uasset" SILENT=true
+[2024.01.22-19.46.16:861][918]LogSavePackage: Moving output files for package: /Game/Interactables/Door/Door_Blue_BP
+[2024.01.22-19.46.16:861][918]LogSavePackage: Moving 'A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Saved/Door_Blue_BP5D0AB241461BFFFEC737638453B85B4E.tmp' to 'A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/Interactables/Door/Door_Blue_BP.uasset'
+[2024.01.22-19.46.16:868][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 7.51 sec)
+[2024.01.22-19.46.16:869][918]AssetCheck: New page: Asset Save: Door_Blue_BP
+[2024.01.22-19.46.16:869][918]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Interactables/Door/Door_Blue_BP.Door_Blue_BP
+[2024.01.22-19.46.19:181][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/Door/Door_Green_BP.Door_Green_BP
+[2024.01.22-19.46.19:181][ 37]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-19.46.19:181][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-19.46.20:504][126]LogViewport: Scene viewport resized to 1036x691, mode Windowed.
+[2024.01.22-19.46.25:095][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-19.46.25:144][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Door/Door_Green_BP" FILE="A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/Interactables/Door/Door_Green_BP.uasset" SILENT=true
+[2024.01.22-19.46.25:151][400]LogSavePackage: Moving output files for package: /Game/Interactables/Door/Door_Green_BP
+[2024.01.22-19.46.25:151][400]LogSavePackage: Moving 'A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Saved/Door_Green_BPCE599C6B4E0FDE359B7778823A1FAC26.tmp' to 'A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/Interactables/Door/Door_Green_BP.uasset'
+[2024.01.22-19.46.25:155][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 7.57 sec)
+[2024.01.22-19.46.25:156][400]AssetCheck: New page: Asset Save: Door_Green_BP
+[2024.01.22-19.46.25:156][400]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Interactables/Door/Door_Green_BP.Door_Green_BP
+[2024.01.22-19.46.28:416][600]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interactables/Door/Door_Yellow_BP.Door_Yellow_BP
+[2024.01.22-19.46.28:417][600]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-19.46.28:417][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-19.46.29:654][683]LogViewport: Scene viewport resized to 1036x691, mode Windowed.
+[2024.01.22-19.46.36:266][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-19.46.36:351][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/Door/Door_Yellow_BP" FILE="A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/Interactables/Door/Door_Yellow_BP.uasset" SILENT=true
+[2024.01.22-19.46.36:357][ 92]LogSavePackage: Moving output files for package: /Game/Interactables/Door/Door_Yellow_BP
+[2024.01.22-19.46.36:357][ 92]LogSavePackage: Moving 'A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Saved/Door_Yellow_BPDE087C6641BFEA1E9BEFFFB2FCD85F4E.tmp' to 'A:/REPOSITORIES/rekt_or_run/rekt_or_run/Rekt_or_run/Content/Interactables/Door/Door_Yellow_BP.uasset'
+[2024.01.22-19.46.36:360][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 7.66 sec)
+[2024.01.22-19.46.36:363][ 92]AssetCheck: New page: Asset Save: Door_Yellow_BP
+[2024.01.22-19.46.36:363][ 92]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Interactables/Door/Door_Yellow_BP.Door_Yellow_BP
+[2024.01.22-19.46.39:732][309]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-19.46.39:732][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-19.46.40:186][333]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.22-19.46.40:186][333]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-19.46.40:186][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-19.46.40:919][378]LogSlate: Window 'Door_Blue_BP' being destroyed
+[2024.01.22-19.46.40:956][378]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.22-19.46.40:956][378]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-19.46.40:956][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
