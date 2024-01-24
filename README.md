@@ -29,7 +29,7 @@
 - Notatki i interakcje z nimi (Grzegorz Głąba) GOTOWE<br>
 - Menu (Grzegorz Głąba) WIP<br>
 - Latarka (Grzegorz Głąba) GOTOWE<br>
-- GUI (Grzegorz Głąba) WIP<br>
+- GUI (Grzegorz Głąba) GOTOWE<br>
 - Integracja assetów z istniejącymi elementami (Mikołaj Plebanek/Adam Orfin) WIP<br>
 - Dalsze AI (Mikołaj Plebanek) WIP<br>
 - Informacje o możliwości wejścia w interakcję z przedmiotem (Mikołaj Plebanek) GOTOWE<br>
