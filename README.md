@@ -27,7 +27,7 @@
 - Oksryptowanie AI na gotowych poziomach (Mikołaj Plebanek) TODO<br>
 - Reszta map (Adam Orfin) WIP<br>
 - Notatki i interakcje z nimi (Grzegorz Głąba) GOTOWE<br>
-- Menu (Grzegorz Głąba) WIP<br>
+- Menu (Grzegorz Głąba) GOTOWE<br>
 - Latarka (Grzegorz Głąba) GOTOWE<br>
 - GUI (Grzegorz Głąba) GOTOWE<br>
 - Integracja assetów z istniejącymi elementami (Mikołaj Plebanek/Adam Orfin) WIP<br>
