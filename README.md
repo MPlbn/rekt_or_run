@@ -1,4 +1,6 @@
 # rekt_or_run
+<h1>Screeny i filmik z rozgrywki</h1>
+link: https://uniwroc-my.sharepoint.com/:f:/g/personal/323176_uwr_edu_pl/Ert1XFBU01ZIryfZfK_-m34Bo-vCaLJ8av6rF24ANysKew?e=IHapiZ
 <h1>Założenia:</h1>
 <h2>core:</h2><br>
 - 3 poziomy (może 2 długie, ale żeby było w co pograć)<br>
